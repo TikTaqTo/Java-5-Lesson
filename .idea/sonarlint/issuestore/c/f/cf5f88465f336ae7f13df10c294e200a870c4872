@@ -1,0 +1,7 @@
+
+G
+java:S1481"1Remove this unused "oddNumberSum" local variable.(ÖÚ™â
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ô·éîþÿÿÿÿ8ÏÖ“ÐÙ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºý´†ùÿÿÿÿ
+U
+java:S3518"@Make sure "averageOdd" can't be zero before doing this division.(†àÀ5

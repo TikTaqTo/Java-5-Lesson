@@ -1,0 +1,5 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(Š„î¼øÿÿÿÿ8†£šÏÙ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¼úÂ
